@@ -19,7 +19,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'NEO学长在新加坡', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '新线国际教育 专注新加坡本硕博学历提升', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https:www.neoline.top/', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.neoline.top/', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Neo学长, 新加坡留学, 新加坡移民, 新加坡专升本, 新加坡专升硕, 新加坡博士, 新加坡学历提升, 新加坡留学中介', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
