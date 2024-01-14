@@ -13,9 +13,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1:false,
   HEO_HERO_TITLE_2: false,
   HEO_HERO_TITLE_3: false,
-  HEO_HERO_TITLE_4: false,
-  HEO_HERO_TITLE_5: false,
-  HEO_HERO_TITLE_LINK: false,
+  HEO_HERO_TITLE_4: '关于我们',
+  HEO_HERO_TITLE_5: 'NE0学长以及NEOLINE的故事',
+  HEO_HERO_TITLE_LINK: 'https://www.neoline.top',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -29,7 +29,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是NEO学长',
+    '你好！我是',
     '🔍 新加坡留学规划',
     '',
     '',
